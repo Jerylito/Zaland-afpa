@@ -1,45 +1,45 @@
-INSERT INTO articles ('nom', 'genre', 'type', 'couleur', 'prix')
+INSERT INTO articles (nom, genre, type, couleur, prix)
 VALUES
-('THEO col V', 'Homme','Tee shirt', 'Blanc','5.00'),
+('THEO col V', 'Homme','Tee shirt', 'Blanc',5.00),
 
-('PEPE JEANS col V', 'Femme','Blouse', 'Imprimé','42.50'),
+('PEPE JEANS col V', 'Femme','Blouse', 'Imprimé', 42.50),
 
-('TOMMY JEANS', 'Homme','Chemise', 'Bleu', '43.95'),
+('TOMMY JEANS', 'Homme','Chemise', 'Bleu', 43.95),
 
-('LA REDOUTE COLLECTIONS Escarpin', 'Femme','Escarpin', 'Gris', '34.99'),
+('LA REDOUTE COLLECTIONS Escarpin', 'Femme','Escarpin', 'Gris', 34.99),
 
-('CLJ CHARLES LEJEUNE la rochelle, Microfibre Uni', 'Homme','Cravate', 'Blue', '11.39'),
+('CLJ CHARLES LEJEUNE la rochelle, Microfibre Uni', 'Homme','Cravate', 'Blue', 11.39),
 
-('ESPRIT bandoulière IZZY', 'Femme','Sac', 'Noir', '41.99'),
+('ESPRIT bandoulière IZZY', 'Femme','Sac', 'Noir', 41.99),
 
-('LEVIS Boots cuir Logan Ca', 'Homme','Chaussure', 'Marron Clair', '91.00'),
+('LEVIS Boots cuir Logan Ca', 'Homme','Chaussure', 'Marron Clair', 91.00),
 
-('MADEMOISELLE R manches évasées', 'Femme','Robe', 'Orange', '12.00'),
+('MADEMOISELLE R manches évasées', 'Femme','Robe', 'Orange', 12.00),
 
-('DOCKERS chino skinny tapered SMART 360 FLEX', 'Homme','Pantalon', 'Rouge', '49.50'),
+('DOCKERS chino skinny tapered SMART 360 FLEX', 'Homme','Pantalon', 'Rouge', 49.50),
 
-('SUNCOO droit rayé JAROD', 'Femme','Pantalon', 'Noir', '42.50'),
+('SUNCOO droit rayé JAROD', 'Femme','Pantalon', 'Noir', 42.50),
 
-('LA REDOUTE COLLECTIONS ACHILLE cintrée', 'Homme','Veste', 'Bleu Marine', '69.99'),
+('LA REDOUTE COLLECTIONS ACHILLE cintrée', 'Homme','Veste', 'Bleu Marine', 69.99),
 
-('LOVEDROBE mi-longue détails macramé', 'Femme','Robe', 'Vert Bouteille', '34.00'),
+('LOVEDROBE mi-longue détails macramé', 'Femme','Robe', 'Vert Bouteille', 34.00),
 
-('CALVIN KLEIN', 'Homme','Pantalon', 'Noir', '40.00'),
+('CALVIN KLEIN', 'Homme','Pantalon', 'Noir', 40.00),
 
-('LA REDOUDE COLLECTIONS Combinaison extra chaude', 'Femme','Pyjama', 'Beige Foncé', '16.00'),
+('LA REDOUDE COLLECTIONS Combinaison extra chaude', 'Femme','Pyjama', 'Beige Foncé', 16.00),
 
-('CASIO Cuir MTP-130PL-1AVEF', 'Homme','Montre', 'Noir', '44.90'),
+('CASIO Cuir MTP-130PL-1AVEF', 'Homme','Montre', 'Noir', 44.90),
 
-('MORGAN analogique bracelet cuir', 'Femme','Montre', 'Blanc', '47.40'),
+('MORGAN analogique bracelet cuir', 'Femme','Montre', 'Blanc', 47.40),
 
-('CASTALUNA Zippé grande taille', 'Homme','Gilet', 'Vert Sapin', '25.00'),
+('CASTALUNA Zippé grande taille', 'Homme','Gilet', 'Vert Sapin', 25.00),
 
-('SCOTTAGE en lyocell', 'Femme','Short', 'Bleu Marine', '12.87'),
+('SCOTTAGE en lyocell', 'Femme','Short', 'Bleu Marine', 12.87),
 
-('BIZZBEE rétro', 'Homme','Lunette', 'gris Fantaisie', '3.99'),
+('BIZZBEE rétro', 'Homme','Lunette', 'gris Fantaisie', 3.99),
 
-('BIZZBEE Rondes Métal Doré verres colorés', 'Femme','Lunette', 'Violet Fantaisie', '3.99'),
+('BIZZBEE Rondes Métal Doré verres colorés', 'Femme','Lunette', 'Violet Fantaisie', 3.99),
 
-('NIKE U Nsw H86 Cap Nk Swoosh', 'Homme','Casquette', 'Blanc', '16.90'),
+('NIKE U Nsw H86 Cap Nk Swoosh', 'Homme','Casquette', 'Blanc', 16.90),
 
-('MANGO  pendentifs combinés ', 'Femme','Boucles Oreilles', 'Rouge', '9.99');
+('MANGO  pendentifs combinés ', 'Femme','Boucles Oreilles', 'Rouge', 9.99);
